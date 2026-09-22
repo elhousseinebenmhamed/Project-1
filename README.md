@@ -43,8 +43,7 @@
 
 ## الموقع المباشر
 
-https://elhousseinebenmhamed.github.io/project-1/
-
+https://github.com/elhousseinebenmhamed/Project-1
 ## المؤلف
 
 الحسين بنمحمد
